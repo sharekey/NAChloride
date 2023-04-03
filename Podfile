@@ -4,6 +4,6 @@ target "NAChloride" do
 end
 
 target "NAChloride iOS" do
-  platform :ios, "7.0"
-  pod "libsodium"
+  platform :ios, "12.0"
+  pod "libsodium", :git => 'ssh://git@github.com/jedisct1/libsodium.git'
 end
