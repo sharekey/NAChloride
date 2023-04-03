@@ -1,5 +1,5 @@
 PODS:
-  - libsodium (1.0.12)
+  - libsodium (1.0.18)
 
 DEPENDENCIES:
   - libsodium
