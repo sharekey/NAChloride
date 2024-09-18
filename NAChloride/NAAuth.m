@@ -10,7 +10,7 @@
 
 #import "NAInterface.h"
 
-#include <sodium.h>
+#include "sodium.h"
 
 @implementation NAAuth
 
