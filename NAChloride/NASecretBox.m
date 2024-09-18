@@ -11,7 +11,7 @@
 #import "NAInterface.h"
 #import "NASecureData.h"
 
-#import "sodium.h"
+#include <sodium.h>
 
 @implementation NASecretBox
 

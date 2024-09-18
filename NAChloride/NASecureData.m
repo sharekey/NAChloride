@@ -10,7 +10,7 @@
 
 #import "NAInterface.h"
 
-#import "sodium.h"
+#include <sodium.h>
 
 @interface NASecureData ()
 @property void *secureBytes;
